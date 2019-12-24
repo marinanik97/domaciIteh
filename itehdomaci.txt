@@ -11,6 +11,7 @@ Mozemo izmeniti svoj account ili dodati novi, klikom na dugmice, te promene se n
 
 Fajlovi:
 
+
 -mystyle3.css uz pomoc ovog fajla smo uredili stranice, odnosno dizajnirali
 -kafe2.js ovde se nalaze primene ajax-a
 -u serveru/controllers - imamo tri fajla, User.php, Product.php, Logs.php
