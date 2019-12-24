@@ -1,0 +1,20 @@
+Kada se pokrene localhost/Final/kafice.php otvara se stranica na kojoj treba uneti username i password
+Nakon ispravnog unosa username-a i password-a otvara se stranica menikafa.php
+
+U bazi postoje dve tabele, users i product
+
+Na njoj se nalazi tabela u kojoj su prikazane pica, uglavnom na bazi kafe i njihove cene 
+Pored svakog reda postoji mogucnost izmene i brisanja odredjenog pica
+Pored izmene i brisanja, postoji mogucnost dodavanja novog pica, i pretraga prema nazivu ili ceni
+
+Mozemo izmeniti svoj account ili dodati novi, klikom na dugmice, te promene se ne vide na stranici, vec u bazi
+
+Fajlovi:
+
+-mystyle3.css uz pomoc ovog fajla smo uredili stranice, odnosno dizajnirali
+-kafe2.js ovde se nalaze primene ajax-a
+-u serveru/controllers - imamo tri fajla, User.php, Product.php, Logs.php
+-takodje se u folderu server nalazi i fajl DBConnection.php, uz pomoc kojeg uspostavljamo konekciju
+-kafice.php, menikafa.php
+-logs.php, product.php, user.php
+
